@@ -27,3 +27,4 @@ C:\Users\sbs\Desktop\Burger\obj\Debug\net8.0\refint\Burger.dll
 C:\Users\sbs\Desktop\Burger\obj\Debug\net8.0\Burger.pdb
 C:\Users\sbs\Desktop\Burger\obj\Debug\net8.0\Burger.genruntimeconfig.cache
 C:\Users\sbs\Desktop\Burger\obj\Debug\net8.0\ref\Burger.dll
+C:\Users\sbs\Desktop\Burger\obj\Debug\net8.0\Burger.sourcelink.json

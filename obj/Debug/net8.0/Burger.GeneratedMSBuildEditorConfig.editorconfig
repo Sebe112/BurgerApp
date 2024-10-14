@@ -22,10 +22,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sbs/Desktop/Burger/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/sbs/Desktop/Burger/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,8 +30,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/sbs/Desktop/Burger/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sbs/Desktop/Burger/Components/Pages/MyReviews.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNeVJldmlld3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sbs/Desktop/Burger/Components/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sbs/Desktop/Burger/Components/Pages/RestaurantDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXN0YXVyYW50RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sbs/Desktop/Burger/Components/Pages/Restaurants.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXN0YXVyYW50cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sbs/Desktop/Burger/Components/Pages/SubmitReview.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdWJtaXRSZXZpZXcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sbs/Desktop/Burger/Components/Routes.razor]
